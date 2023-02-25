@@ -16,5 +16,5 @@ Projeto construído no evento Next Level Week da [Rocketseat](https://www.rocket
 
 
 ## 🌟 Contato
-✉️ [e-mail](https://www.linkedin.com/in/leydilson/)
+✉️ [e-mail](Leydilson.94@gmail.com)
 👩🏽‍💼 [Linkedin](https://www.linkedin.com/in/leydilson/)
